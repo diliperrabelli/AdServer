@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Build-Id: 
+Build-Number: 
+Archiver-Version: Plexus Archiver
+App-Title: FacebookBot
+Built-By: kanugha
+Build-Tag: 
+Build-Stream: 
+Created-By: Apache Maven 3.0.4
+Build-Jdk: 1.8.0_60
+App-Version: 1.0-SNAPSHOT
+
